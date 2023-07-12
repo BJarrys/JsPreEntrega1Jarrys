@@ -69,4 +69,4 @@ function CalculoCuotaMesAMes(monto, interes, tiempo)
     mostrar+="</tbody>"
 
     document.getElementById("TPago").innerHTML=mostrar;
-}
+} 
